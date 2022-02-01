@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1925" height="1925" viewBox="0 0 1925 1925">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 177.417px;
+        font-family: "Franklin Gothic Demi";
+      }
+
+      .cls-1 {
+        fill: red;
+      }
+
+      .cls-2 {
+        fill: #2e3450;
+      }
+    </style>
+  </defs>
+  <text id="C" class="cls-1" x="440.838" y="982.884">C</text>
+  <text id="CRYSTALITE" class="cls-2" x="491.643" y="984.453">CRYSTALITE</text>
+</svg>
